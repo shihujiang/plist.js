@@ -1,7 +1,11 @@
 plist.js
 
 
-＃＃＃＃plist模块在处理伟null的节点时会导致plist文件异常，因此需要需改下plis模块的源码
+＃＃＃＃plist模块在处理为null的节点时会导致plist文件异常，因此需要需改下plis模块的源码
+
+问题描述：跟下面的哥们遇到的一样
+	https://github.com/TooTallNate/plist.js/issues/79
+
 
 
 ========
