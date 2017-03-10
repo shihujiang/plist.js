@@ -1,4 +1,9 @@
 plist.js
+
+
+＃＃＃＃plist模块在处理伟null的节点时会导致plist文件异常，因此需要需改下plis模块的源码
+
+
 ========
 ### Mac OS X Plist parser/builder for Node.js and browsers
 
